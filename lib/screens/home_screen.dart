@@ -22,8 +22,8 @@ class _HomeScreenState extends State<HomeScreen> {
   ];
 
   //
-  // @developedbyafif
-  // afifudinx.vercel.app
+  // @idnflutter
+  // afifudinx.vercel.app/flutter
   //
 
   @override
