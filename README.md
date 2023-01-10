@@ -19,7 +19,7 @@ void main() => runApp(MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-hero-animation.git
+git clone https://github.com/afifcodes/flutter-hero-animation.git
 cd flutter-hero-animation
 flutter pub get
 flutter run
@@ -30,6 +30,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app)
-* [Youtube channel](https://youtube.com/developedbyafif)
-* [Instagram](https://instagram.com/developedbyafif)
+* [Website](https://afifcodes.vercel.app)
+* [Youtube channel](https://youtube.com/afifcodes)
+* [Instagram](https://instagram.com/afifcodes)
