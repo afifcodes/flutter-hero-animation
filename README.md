@@ -19,8 +19,8 @@ void main() => runApp(MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-hero-animation.git
-cd flutter-hero-animation
+git clone https://github.com/afifcodes/flutter-hero-animation-example.git
+cd flutter-hero-animation-example
 flutter pub get
 flutter run
 ```
